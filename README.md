@@ -1,24 +1,30 @@
 <div align = "center">
 
-<h1><a href="https://archel77.github.io/archel77.github.io">archel77.github.io</a></h1>
+<h1><a href="https://archel77.github.io/archel77">archel77.github.io</a></h1>
 
-<a href="https://github.com/2KAbhishek/2kabhishek.github.io/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/2kabhishek.github.io?style=flat&color=eee&label="> </a>
+<a href="https://github.com/archel77/archel77/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/archel77/archel77?
+style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/2kabhishek.github.io/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/2kabhishek.github.io?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/archel77/archel77/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/archel77/archel77?
+style=flat&color=ffaaf2&label=People"> </a>
 
 <a href="https://github.com/archel77/archel77.github.io/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/archel77/archel77.github.io?style=flat&color=98c379&label=Stars"></a>
+<img alt="Stars" src="https://img.shields.io/github/stars/archel77/archel77?
+style=flat&color=98c379&label=Stars"></a>
 
 <a href="https://github.com/archel77/archel77.github.io/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/2kabhishek.github.io?style=flat&color=66a8e0&label=Forks"> </a>
+<img alt="Forks" src="https://img.shields.io/github/forks/archel77/archel77?
+style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/2kabhishek.github.io/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/archel77/archel77.github.io?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/archel77/archel77/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/archel77/archel77?
+style=flat&color=f5d08b&label=Watches"> </a>
 
 <a href="https://github.com/archel77/archel77.github.io/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/archel77/archel77.github.io?style=flat&color=e06c75&label="> </a>
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/archel77/archel77?
+style=flat&color=e06c75&label="> </a>
 
 </div>
 
